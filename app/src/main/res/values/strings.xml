@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1HM1</string>
+    <string name="send">Send</string>
+    <string name="send_back">Send Back</string>
+</resources>
